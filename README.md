@@ -36,6 +36,8 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+<h3 align="center">📊 GitHub Stats ></h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=7sn-MSMOTA&show_icons=true&locale=en&theme=dark" alt="ms's GitHub Stats" />
+</p>
 ###
