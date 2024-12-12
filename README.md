@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">🔭 I’m currently working on ...Discord-Tools</h4>
+<h4 align="center">🔭 I’m currently working on ....</h4>
 
 ###
 
